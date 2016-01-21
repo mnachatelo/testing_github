@@ -3,3 +3,5 @@ This is my first file.
 Adding additional items to file.
 
 It comes before other files
+
+Testing new_feature

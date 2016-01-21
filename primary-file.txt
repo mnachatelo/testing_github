@@ -4,4 +4,4 @@ Adding additional items to file.
 
 It comes before other files
 
-Testing new_feature
+Testing new_feature : new shorten_branch

@@ -5,3 +5,9 @@ Adding additional items to file.
 It comes before other files
 
 New changes below this line ???
+
+Testing new_feature : new shorten_branch
+
+Test no commit
+
+Testing merge again - to see if there are errors.

@@ -4,6 +4,12 @@ Adding additional items to file.
 
 It comes before other files
 
+<<<<<<< HEAD
 Testing new_feature
 
 Testing branch master and merge
+=======
+Testing new_feature : new shorten_branch
+
+Test no commit
+>>>>>>> shorten_title

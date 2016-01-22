@@ -7,3 +7,5 @@ It comes before other files
 Testing new_feature : new shorten_branch
 
 Test no commit
+
+Testing merge again - to see if there are errors.
